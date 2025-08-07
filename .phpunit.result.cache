@@ -1,0 +1,1 @@
+{"version":1,"defects":{"BooleanUtilsTest::testToInteger":7,"BooleanUtilsTest::testToString":7},"times":{"BooleanUtilsTest::testIsBoolean":0.001,"BooleanUtilsTest::testToInteger":0.001,"BooleanUtilsTest::testToString":0.001}}
